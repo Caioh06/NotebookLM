@@ -1,4 +1,5 @@
 # NotebookLM - Atividade prática
+https://notebook.google.com/notebook/a8f78118-95fd-42e7-8e62-5a0cceed7056
 ### Tema: 
 Especializando em musculação
 ### Objetivo: 
